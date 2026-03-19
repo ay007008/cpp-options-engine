@@ -1,0 +1,25 @@
+# Compiled binaries
+put_options_pricer
+area
+class_examples
+mini_code
+multiplier
+random_event
+tax_rate
+temp_conv
+globals
+
+# Object files
+*.o
+*.obj
+
+# Save files
+*.save
+
+# Virtual environments
+fxcm-env/
+
+# Large files
+*.exe
+*.out
+*.swp
