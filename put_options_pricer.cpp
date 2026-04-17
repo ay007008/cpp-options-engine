@@ -57,6 +57,7 @@ double SimpleMonteCarloPut(double Expiry, double Strike, double Spot,
     return mean;
 }
 
+#ifndef RUNNING_TESTS
 int main() {
     double Expiry;
     double Strike;
@@ -89,4 +90,4 @@ int main() {
 
     return 0;
 }
-m
+#endif
