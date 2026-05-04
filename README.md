@@ -1,5 +1,5 @@
 ## 🎓 Unique Mathematical Edge
-*   **Full Proof:** The complete derivation is available here: [**Docs/maclaurin_sde_paper.docx**](./docs/maclaurin_sde_paper.docx)
+*   **Full Proof:** The complete derivation is available here: ON SUBSTACL (https://substack.com/@ayomideakinola1?utm_source=share&utm_medium=android&r=5xlptl)
 CD Capitals: High-Performance Options Engine
 
 
