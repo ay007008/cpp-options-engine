@@ -1,5 +1,5 @@
 ## 🎓 Unique Mathematical Edge
-*   **Full Proof:** The complete derivation is available here: ON SUBSTACL (https://substack.com/@ayomideakinola1?utm_source=share&utm_medium=android&r=5xlptl)
+*   **Full Proof:** The complete derivation is available here: ON SUBSTACK(https://open.substack.com/pub/ayomideakinola007/p/why-itos-correction-was-always-in?utm_source=share&utm_medium=android&r=5xlptlV)
 CD Capitals: High-Performance Options Engine
 
 
